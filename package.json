@@ -1,0 +1,26 @@
+{
+  "name": "origin-insurance-calculator-api",
+  "version": "1.0.0",
+  "description": "Origin insurance calculator REST API, as a take-home assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiolouro/origin-insurance-calculator-api.git"
+  },
+  "keywords": [
+    "origin",
+    "insurance",
+    "assignment",
+    "node",
+    "api"
+  ],
+  "author": "Caio Louro",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/caiolouro/origin-insurance-calculator-api/issues"
+  },
+  "homepage": "https://github.com/caiolouro/origin-insurance-calculator-api#readme"
+}
